@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Stores custom attributes of the containing folder
+.DS_Store
+
+#repo specific files and folders
+birdsong-recognition.zip
+birdsong-recognition/
